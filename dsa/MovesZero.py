@@ -6,7 +6,7 @@ nums = [1,0,3,4,2,0,0,1,2,5]
 # Time  O(n)
 # Space O(n)  -- non zero list
 
-# ..
+
 
 non_zero = []
 count = 0
